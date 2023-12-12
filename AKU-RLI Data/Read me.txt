@@ -1,0 +1,3 @@
+Here, the data set used in the paper "A Novel Approach Based on Dynamic Time Warping for Residential Load Identification" and measured at Afyon Kocatepe University is presented. 
+There are definitions for each csv file in the output file. 
+
